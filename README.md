@@ -35,5 +35,5 @@ python manage.py createsuperuser
 # 10. Запустить сервер
 python manage.py runserver
 
-Поменять пароль админки:
+# Поменять пароль админки:
 python manage.py changepassword admin
